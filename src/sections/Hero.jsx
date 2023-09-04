@@ -24,8 +24,7 @@ const Hero = () => {
         max-sm:leading-[82] font-bold"
         >
           <span
-            className="xl:bg-white xl:whitespace
-          -nowrap relative z-10 pr-10"
+            className="xl:bg-white xl:whitespace-nowrap relative z-10 pr-10"
           >
             The New Arrival
           </span>
